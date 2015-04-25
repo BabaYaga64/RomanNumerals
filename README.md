@@ -5,7 +5,7 @@
 ###Description
 
 This app takes a user input 
-This app takes an integer input and converts it to a Roman numberal. It is written in JavaScript with behavior-driven development (BDD) specs written for the method. Mocha spec framework and chai assertion library are also used. 
+This app takes an integer input and converts it to Roman numerals. It is written in JavaScript with behavior-driven development (BDD) specs written for the method. Mocha spec framework and chai assertion library are also used. 
 
 
 ###Setup Instructions
